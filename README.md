@@ -1,4 +1,4 @@
-# The General Knowledge Quiz
+<img width="1874" height="1110" alt="image" src="https://github.com/user-attachments/assets/eb236370-d673-4085-a2a3-702ff60c48d0" /># The General Knowledge Quiz
 
 **Decodelabs Project 4**
 
@@ -7,7 +7,8 @@ A small quiz game that asks 3 general knowledge questions, adds 1 point for ever
 - a **Python command-line program** (`quiz.py`)
 - a **web app** (`index.html`) that runs in the browser
 
-**Live demo:** `https://<your-username>.github.io/<repository-name>/`
+**Live demo:** https://ridafatimazulfiqar.github.io/general-knowledge-quiz/
+
 
 ---
 
